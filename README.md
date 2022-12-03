@@ -1,3 +1,7 @@
 # Contador-de-idade
-curso em video
- https://nei22.github.io/Contador-de-Idade/
+
+- curso em video
+
+## HTML - CSS - JAVASCRIPT
+
+- Digite o anos em que você nasceu e o genero que você se identifica
